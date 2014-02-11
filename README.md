@@ -1,7 +1,8 @@
-ruby-hack-night
-===============
+# ruby-hack-night
 
-# decoder_ring.rb
+Solutions developed for the assorted problems presented at [ChicagoRuby](http://www.meetup.com/ChicagoRuby/) hack night.
+
+## decoder_ring.rb
 ##### Ruby v1.9.3
 ##### A solution for the puzzle at http://www.puzzlenode.com/puzzles/12-secret-messages
 
@@ -9,7 +10,7 @@ The input file will contain an encrypted keyword and and encrypted message. The 
 
 The output file should contain the decrypted secret message.
 
-# english_numerals.rb
+## english_numerals.rb
 ##### Ruby v1.9.3
 ##### From [Best of Ruby Quiz](http://pragprog.com/book/fr_quiz/best-of-ruby-quiz)
 
@@ -19,7 +20,7 @@ Create Ruby code to translate a number to its English-language form:
 * 2001 == two thousand and one
 * 1999 == one thousand nine hundred and ninety-nine
 
-# countdown.rb
+## countdown.rb
 ##### Ruby v1.9.3
 ##### From [Best of Ruby Quiz](http://pragprog.com/book/fr_quiz/best-of-ruby-quiz)
 
@@ -41,7 +42,7 @@ According to Brian Candler in the Ruby Quiz book, Countdown is a British quiz sh
 * (5 * 100) + ((5 + 6) * 2)
 * (100 + 6) * 5 - 8
 
-# phone_quiz.rb
+## phone_quiz.rb
 ##### Ruby v1.9.3
 ##### From [Best of Ruby Quiz](http://pragprog.com/book/fr_quiz/best-of-ruby-quiz)
 
